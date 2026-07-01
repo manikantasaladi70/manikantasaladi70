@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+%40+St.+Martin's+Engineering+College;Currently+Building+browserautomationagent+%7C+AI+browser+automation+Agent+%7C+%F0%9F%A9%BA;NASSCOM+AI+Code+Sarathi+Contributor+%7C+PR+%23112+%E2%9C%85;Turned+Factory+Floor+Problem+%E2%86%92+Full+ERP+System+%F0%9F%8F%AD;Open+to+AI+%2F+Full+Stack+%2F+Android+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+%40+St.+Martin's+Engineering+College;Currently+Building+WebNavigator+%7C+AI+browser+automation+Agent+%7C+%F0%9F%A9%BA;NASSCOM+AI+Code+Sarathi+Contributor+%7C+PR+%23112+%E2%9C%85;Turned+Factory+Floor+Problem+%E2%86%92+Full+ERP+System+%F0%9F%8F%AD;Open+to+AI+%2F+Full+Stack+%2F+Android+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
